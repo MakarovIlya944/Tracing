@@ -1,0 +1,10 @@
+4
+0 0 6 2 255 100 50 2 1 1500
+3 0 0 1 255 255 255 0 0 -1
+0 3 4 1 255 0 0 1 0.7 -1
+0 -2 2 2 0 0 255 1 0.3 1000
+type position color radius reflection specularity
+0-sphere
+1-conus
+2-thetra
+3-plane
